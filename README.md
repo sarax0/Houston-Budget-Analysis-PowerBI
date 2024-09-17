@@ -39,7 +39,8 @@ This page answers key questions such as:
 - Which account categories have the highest actual expenditures?
 - Are we earning more than we're spending?
 ![Budget Overview Page](https://github.com/user-attachments/assets/85fd0833-7fb4-4e3e-a60a-914fbef386bb)
-
+- What is the sum of the 2023 Actuals **expenditure amount** for the City of Houston's **Library department**?
+- ![Filtering](https://github.com/user-attachments/assets/58552036-04e1-41cd-bad9-49dcd2b6fa7e)
 
 #### **2. Department Budget Analysis**
 
@@ -57,7 +58,7 @@ This page focuses on fund allocation and balances:
 - How have fund balances changed over time?
 - What is the fund balance for each fund type?
 - What are the balances in each fund?
-![Fund Dashboard](https://github.com/user-attachments/assets/a727dc07-77c2-4a81-8042-c44e71156811)
+![Fund Dashboard](https://github.com/user-attachments/assets/0f0d3beb-582d-4406-ae45-6f0b21d3cf33)
 
 ### 4. Navigation and Filtering
 
